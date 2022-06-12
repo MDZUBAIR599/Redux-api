@@ -7,3 +7,6 @@ export const deleteTodo=(id)=>(
 
 export const editTodo=(id,value)=>(
     {type:Edit_Todo ,payload:{id,value}})
+
+
+    // zubair
